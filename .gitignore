@@ -7,3 +7,4 @@ ublock-modern
 dist/
 build/
 *.log
+node_modules/
